@@ -1,3 +1,8 @@
+
+### This code is associated with the paper from Zaaijer et al., "Rapid re-identification of human samples using portable DNA sequencing". eLife, 2017. http://dx.doi.org/10.7554/eLife.27798
+
+
+
 Sample re-identification pipeline: 
 ================================
 
